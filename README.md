@@ -1,9 +1,9 @@
 # VPC-Networking-Basic-Lab
 
-### Goal
+## Goal
 Configure a custom VPC to practice secure, fault-tolerant cloud networking principles used in enterprise enviornments. 
 
-### Value
+## Value
 Network provisioning may seem tedious and daunting, but this meta-step process is critical for architecture operating in secure and isolated environments. It enables traffic features to work together to launch AWS services that require a VPC (e.g., Lambda, SageMaker Studio, EKS), as well as troubleshoot functioning and deployment issues for AWS services. 
 Designed and deployed a custom Amazon VPC from scratch to demonstrate fundamental Cloud networking principles.
 
